@@ -1,0 +1,14 @@
+{
+  "name": "rust_annealing",
+  "version": "0.1.0",
+  "files": [
+    "rust_annealing_bg.wasm",
+    "rust_annealing.js",
+    "rust_annealing.d.ts"
+  ],
+  "module": "rust_annealing.js",
+  "types": "rust_annealing.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
